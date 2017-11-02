@@ -1,0 +1,18 @@
+.project{
+	width:200px;
+	height:200px;
+	background-color:pink;
+	display:inline-block;
+	margin-left:10px;
+	margin-right: 10px;
+}
+
+.proj_label{
+	width:200px;
+	height:40px;
+	background-color:#4aaaa5;
+	position:absolute;
+	text-align: center;
+	color:#777777;
+	margin-top:150px;
+}
