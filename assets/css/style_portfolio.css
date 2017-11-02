@@ -1,18 +1,20 @@
 .project{
-	width:200px;
-	height:200px;
 	background-color:pink;
 	display:inline-block;
+	height:200px;
 	margin-left:10px;
 	margin-right: 10px;
+	width:200px;
 }
 
 .proj_label{
-	width:200px;
-	height:40px;
 	background-color:#4aaaa5;
+	color:#777777;
+	font-size:18px;
+	height:30px;
+	margin-top:-50px;
+	padding:5px;
 	position:absolute;
 	text-align: center;
-	color:#777777;
-	margin-top:150px;
+	width:190px;
 }
